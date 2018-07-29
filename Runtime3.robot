@@ -22,4 +22,5 @@ Robot Fetch at Runtime 1
 
     ${elem_count} =  Get Element Count  class:field
     log  ${elem_count}
+	log  ${elem_count}
 
